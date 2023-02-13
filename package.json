@@ -1,9 +1,9 @@
 {
-  "_from": "fca-jiser",
-  "_id": "fca-jiser@1.0.0",
+  "_from": "fca-jiser-main",
+  "_id": "fca-jiser@1.0.3",
   "_inBundle": false,
   "_integrity": "sha512-hBLNMXdBmORuXd6ZjcvOPovzmBpn/Wl8sfZ3eK6D+varHA73LKlYppRGOOPeg+VpNCGNBA/WdPw8Xkj7Si0F3g==",
-  "_location": "/fca-jiser",
+  "_location": "/fca-jiser-main",
   "_phantomChildren": {
     "abort-controller": "3.0.0",
     "aproba": "2.0.0",
@@ -76,9 +76,9 @@
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "fca-jiser",
-    "name": "fca-jiser",
-    "escapedName": "fca-jiser",
+    "raw": "fca-jiser-main",
+    "name": "fca-jiser-main",
+    "escapedName": "fca-jiser-main",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -87,12 +87,12 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/fca-jiser/-/fca-jiser-3.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/fca-jiser-main/-/fca-jiser-main-3.0.0.tgz",
   "_shasum": "63ced7a628ffe2d2cb9c36652ef19a9a384cdb5a",
-  "_spec": "fca-jiser",
+  "_spec": "fca-jiser-main",
   "_where": "C:\\",
   "author": {
-    "name": "Avery, David, Maude, Benjamin"
+    "name": "Avery, David, Maude, Benjamin, Jiser"
   },
   "bugs": {
     "url": "https://github.com/"
@@ -150,10 +150,10 @@
     }
   },
   "keywords": [
-    "fca-jiser"
+    "fca-jiser-main"
   ],
   "license": "MIT",
-  "name": "fca-jiser",
+  "name": "fca-jiser-main",
   "repository": {
     "type": "git",
     "url": "git://github.com/"
@@ -163,5 +163,5 @@
     "prettier": "prettier utils.js src/* --write",
     "test": "mocha"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
